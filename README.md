@@ -25,6 +25,6 @@
   🤔 I’m looking for help with ...
 
   📫 How to reach me:
-    please feel free to contact me by email! (denny10002@naver.com)
+    <p>please feel free to contact me by email! (denny10002@naver.com)</p>
 
 

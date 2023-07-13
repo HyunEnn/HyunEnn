@@ -20,7 +20,7 @@
   
   🌱 I’m currently learning ...
   <div>I`m learning Backend-skills, and how to apply.</div>
-  
+  <br>
 
   📫 How to reach me:
     <p>please feel free to contact me by email! (denny10002@naver.com)</p>

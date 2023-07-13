@@ -19,10 +19,8 @@
 
   
   🌱 I’m currently learning ...
+  <div>I`m learning Backend-skills, and how to apply.</div>
   
-  👯 I’m looking to collaborate on ...
-  
-  🤔 I’m looking for help with ...
 
   📫 How to reach me:
     <p>please feel free to contact me by email! (denny10002@naver.com)</p>

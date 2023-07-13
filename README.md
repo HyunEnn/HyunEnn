@@ -7,7 +7,7 @@
 
 💻 Tech Stack 💻
 
- <div align="center">
+ <div>
    <img src="https://img.shields.io/badge/Java-007396%3Fstyle%3Dflat%26logo%3DJava%26logoColor%3Dwhite"/>
  </div>
 

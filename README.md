@@ -23,6 +23,8 @@
   <div>I`m learning Backend-skills, and how to apply.</div>
   <br>
 
+  <div><h3>[ 23.07 ~ NOW ] SSAFY 10th</h3></div>
+
   📫 How to reach me:
     <p>please feel free to contact me by email! (denny10002@naver.com)</p>
 

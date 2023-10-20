@@ -30,4 +30,5 @@
   📫 How to reach me:
     <p>please feel free to contact me by email! (denny10002@naver.com)</p>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=denny1002)](https://solved.ac/denny1002/)
 

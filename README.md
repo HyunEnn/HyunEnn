@@ -32,7 +32,7 @@
     <p>please feel free to contact me by email! (denny10002@naver.com)</p>
   <br>
 
-  Notion Resume
+  Notion Portfolio
   <p>https://www.notion.so/hyunenn/22056a1c38184f3cb172771a590c7382</p>
   <br>
 

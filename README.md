@@ -25,7 +25,7 @@
   <div>I`m learning Backend-skills, and how to apply.</div>
   <br>
 
-  <div><h2>[ 23.07 ~ NOW ] SSAFY 10th</h2></div>
+  <div><h2>[ 23.07 ~ 24.06 ] SSAFY 10th</h2></div>
   <br>
 
   📫 How to reach me:
